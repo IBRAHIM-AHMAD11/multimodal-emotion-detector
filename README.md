@@ -13,4 +13,4 @@ This app uses facial image, voice tone, and text sentiment to predict emotions.
 pip install -r requirements.txt
 python app.py
 ```
-Then open: [http://localhost:5000](http://localhost:5000)
+Then open: http://localhost:5000
